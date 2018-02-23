@@ -1,0 +1,9 @@
+name: RankVoucher
+main: RankVoucher\Main
+version: 1.0.0
+api: [3.0.0-ALPHA11]
+author: MonkleeGamer
+description: RankVoucher
+commands:
+ voucher:
+  description: "Gives a Rank Voucher"
