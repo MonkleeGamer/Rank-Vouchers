@@ -1,2 +1,2 @@
 # Rank-Vouchers
-A Rank vucher plugin for MCPE serevers, Tested on PMMP Software
+A Rank voucher plugin for 1.2.10 MCPE serevers, Tested on PMMP Software
