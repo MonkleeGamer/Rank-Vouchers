@@ -193,7 +193,7 @@ class Main extends PluginBase implements Listener {
 				case 104:
                                 case Overlord:
 				
-				$book1 = Item::get(Item::BOOK, 104, 1);
+				$book4 = Item::get(Item::BOOK, 104, 1);
 
 				$pperms = $this->getServer()->getPluginManager()->getPlugin("PurePerms");
 
