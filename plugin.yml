@@ -7,3 +7,7 @@ description: RankVoucher
 commands:
  voucher:
   description: "Gives a Rank Voucher"
+permissions:
+ voucher.command:
+  default: op
+  description: Permission for /voucher
